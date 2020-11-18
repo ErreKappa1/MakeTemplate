@@ -21,7 +21,7 @@ function cppFunc {
 }
 
 function shFunc{
-	echo "#! /bin/sh" > $projectName.sh
+	echo "#! /bin/sh" > ./$projectName.sh
 }
 
 function helpFunc {
