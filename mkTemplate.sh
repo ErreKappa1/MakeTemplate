@@ -20,7 +20,7 @@ function cppFunc {
 	mkdir Vim
 }
 
-function shFunc{
+function shFunc {
 	echo "#! /bin/sh" > ./$projectName.sh
 }
 
