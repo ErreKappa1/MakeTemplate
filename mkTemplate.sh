@@ -3,7 +3,6 @@
 projectName=$2
 
 function cFunc {
-	cp ./Make_Templates/C/gmake.sh ./
 	echo all: > Makefile
 	echo "	gcc -Wall -g *.h *.c -o x"$projectName >> Makefile
 	cp ./Make_Templates/C/generic.c ./
@@ -12,9 +11,8 @@ function cFunc {
 }
 
 function cppFunc {
-	cp ./Make_Templates/C++/gmake.sh ./
 	echo all: > Makefile
-	echo "	g++ -Wall -g *.cpp -o x"$projectName >> Makefile
+	echo "	g++ -Wall -g *.cpp -std=c++11 -o x"$projectName >> Makefile
 	cp ./Make_Templates/C++/generic.cpp ./
 	mv generic.cpp $projectName.cpp
 	mkdir Vim
