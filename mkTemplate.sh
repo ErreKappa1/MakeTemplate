@@ -7,7 +7,6 @@ function cFunc {
 	echo "	gcc -Wall -g *.h *.c -o x"$projectName >> Makefile
 	cp $HOME/Documents/Git/ErreKappa1/MakeTemplate/Make_Templates/C/generic.c ./
 	mv generic.c $projectName.c
-	mkdir Vim
 }
 
 function cppFunc {
@@ -15,7 +14,6 @@ function cppFunc {
 	echo "	g++ -Wall -g *.cpp -std=c++11 -o x"$projectName >> Makefile
 	cp $HOME/Documents/Git/ErreKappa1/MakeTemplate/Make_Templates/C++/generic.cpp ./
 	mv generic.cpp $projectName.cpp
-	mkdir Vim
 }
 
 function shFunc {
