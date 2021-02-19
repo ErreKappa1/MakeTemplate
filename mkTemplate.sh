@@ -11,7 +11,7 @@ function cFunc {
 
 function cppFunc {
 	echo all: > Makefile
-	echo "	g++ -Wall -g *.cpp -std=c++11 -o x"$projectName >> Makefile
+	echo "	g++ -Wall -Wextra -g *.cpp -std=c++11 -o x"$projectName >> Makefile
 	cp $HOME/Documents/Git/ErreKappa1/MakeTemplate/Make_Templates/C++/generic.cpp ./
 	mv generic.cpp $projectName.cpp
 }
