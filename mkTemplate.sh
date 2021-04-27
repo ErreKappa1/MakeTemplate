@@ -1,26 +1,26 @@
-#! /bin/sh
+#! /bin/bash
 
 projectName=$2
 
-function cFunc {
+cFunc () {
 	echo all: > Makefile
 	echo "	gcc -Wall -g *.h *.c -o x"$projectName >> Makefile
 	cp $HOME/Documents/Git/ErreKappa1/MakeTemplate/Make_Templates/C/generic.c ./
 	mv generic.c $projectName.c
 }
 
-function cppFunc {
+cppFunc () {
 	echo all: > Makefile
 	echo "	g++ -Wall -Wextra -g *.cpp -std=c++11 -o x"$projectName >> Makefile
 	cp $HOME/Documents/Git/ErreKappa1/MakeTemplate/Make_Templates/C++/generic.cpp ./
 	mv generic.cpp $projectName.cpp
 }
 
-function shFunc {
+shFunc () {
 	echo "#! /bin/sh" > ./$projectName.sh
 }
 
-function helpFunc {
+helpFunc () {
 	echo
 	echo Usage: mktemplate [OPTION] DIRNAME
 	echo
@@ -51,15 +51,11 @@ then
 	exit 0
 elif [ $1 == '-c' ]
 then
-	mkdir $projectName
-	cd $projectName
-	cFunc
+	mkdir $projectName && cd $projectName && cFunc
 	exit 0
 elif [ $1 == '-cpp' ]
 then
-	mkdir $projectName
-	cd $projectName
-	cppFunc
+	mkdir $projectName && cd $projectName && cppFunc
 	exit 0
 elif [ $1 == '-sh' ]
 then
