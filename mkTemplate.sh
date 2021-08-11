@@ -39,11 +39,19 @@ helpFunc () {
 	echo \	\	mktemplate -cpp Newproject
 }
 
-if [ -z $1 ]
-then
-	echo mkTemplate: invalid argument
+genericError () {
+	echo mkTemplate: invalid arguments
 	echo try \'mkTemplate --help\' for more information.
 	exit 1
+}
+
+if [[ $# -lt 2 ]]
+then
+	genericError
+fi
+if [ -z $1 ]
+then
+	genericError
 elif [ $1 == '-h' ] || [ $1 == '--help' ]
 then
 	helpFunc
