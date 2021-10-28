@@ -4,26 +4,22 @@ titlepage-background: "its-cover.pdf"
 titlepage-text-color: "000000"
 titlepage-rule-color: "9c3c3d"
 titlepage-rule-height: 0
-title: Security specialist
-subtitle: Unità formativa
-author: Nome Cognome \<nome.cognome@edu.itspiemonte.it\>
+title: That's a Title
+subtitle: And here's a subtitle
+author: Name Surname
 lang: it
 papersize: a4
 toc: false
 footer-left: "\\includegraphics{its-footer.png}"
 ...
 
-# Titolo 1
+# Title 1
 
-Paragrafo di esempio
+First paraghraph
 
-## Sottotitolo
+## Subtitle
 
-Altro paragrafo di esempio
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet tellus cras adipiscing enim eu. Nisl suscipit adipiscing bibendum est. Dolor morbi non arcu risus quis varius quam quisque id. In eu mi bibendum neque egestas congue. In fermentum et sollicitudin ac orci phasellus egestas tellus rutrum. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu vitae. Dignissim cras tincidunt lobortis feugiat vivamus at augue. Auctor urna nunc id cursus metus aliquam eleifend mi in. Odio aenean sed adipiscing diam. Vitae aliquet nec ullamcorper sit amet risus. Blandit turpis cursus in hac. Commodo ullamcorper a lacus vestibulum sed.
-
-## Esempio di codice
+### Code example
 
     #include<stdio.h>
 
@@ -32,40 +28,50 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         return 0;
     }
 
-Ultrices dui sapien eget mi. Ullamcorper morbi tincidunt ornare massa eget egestas purus viverra. Habitant morbi tristique senectus et netus et. Porta non pulvinar neque laoreet suspendisse interdum. Velit egestas dui id ornare. Tincidunt tortor aliquam nulla facilisi cras fermentum odio. Tellus at urna condimentum mattis pellentesque id nibh tortor. Pellentesque eu tincidunt tortor aliquam nulla. Ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Non blandit massa enim nec dui nunc. Nibh tortor id aliquet lectus. Viverra tellus in hac habitasse platea dictumst. Lacus luctus accumsan tortor posuere ac ut. Aenean et tortor at risus viverra adipiscing at in tellus. Non curabitur gravida arcu ac tortor dignissim convallis aenean.
+### Table and lists examples
 
-Enim sit amet venenatis urna cursus eget nunc scelerisque viverra. Vitae justo eget magna fermentum iaculis eu. Diam quam nulla porttitor massa id neque aliquam vestibulum. Ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel. Ornare massa eget egestas purus viverra accumsan in nisl. Mauris nunc congue nisi vitae. Consequat interdum varius sit amet mattis. Venenatis tellus in metus vulputate. Vel risus commodo viverra maecenas accumsan. Quam adipiscing vitae proin sagittis. Nisi lacus sed viverra tellus in hac habitasse. Nisl tincidunt eget nullam non. Nisi quis eleifend quam adipiscing vitae. Aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices.
+item 1 | item 2 | item 3
+--- | --- | ---
+item 4 | item 5 | item 6
+item 7 | item 8 | item 9
 
-Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Id porta nibh venenatis cras sed felis eget. Sed vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Lacus suspendisse faucibus interdum posuere lorem ipsum. Dolor morbi non arcu risus quis varius quam quisque id. Posuere lorem ipsum dolor sit. Integer malesuada nunc vel risus commodo viverra maecenas. Egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. Dui faucibus in ornare quam. Non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus. Lacus vestibulum sed arcu non odio. Ac placerat vestibulum lectus mauris.
+Numbered List:
 
-Integer eget aliquet nibh praesent. Tempus egestas sed sed risus pretium quam. Amet aliquam id diam maecenas ultricies. Faucibus ornare suspendisse sed nisi lacus sed viverra tellus in. Amet venenatis urna cursus eget nunc scelerisque viverra mauris. Id semper risus in hendrerit gravida. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Eget sit amet tellus cras adipiscing enim eu. Accumsan sit amet nulla facilisi morbi tempus iaculis urna id. Senectus et netus et malesuada. Ac auctor augue mauris augue neque gravida in fermentum. Ac tortor dignissim convallis aenean et tortor at risus. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Nec nam aliquam sem et tortor consequat id. Habitasse platea dictumst quisque sagittis. Tellus molestie nunc non blandit massa. Sed elementum tempus egestas sed sed risus pretium. Neque convallis a cras semper auctor neque vitae. Hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Sit amet risus nullam eget felis eget.
+1. Item 1
+2. Item 1
+3. Item 1
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames. Enim ut tellus elementum sagittis vitae et leo duis ut. Enim neque volutpat ac tincidunt vitae semper quis. Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Tempor id eu nisl nunc mi ipsum faucibus vitae aliquet. Quis risus sed vulputate odio ut enim blandit. Libero id faucibus nisl tincidunt eget nullam. Elit duis tristique sollicitudin nibh sit amet commodo. Auctor augue mauris augue neque gravida. Ullamcorper sit amet risus nullam eget felis eget. A scelerisque purus semper eget duis at tellus at urna. Egestas integer eget aliquet nibh praesent tristique. Morbi leo urna molestie at elementum eu. Arcu cursus vitae congue mauris. Amet massa vitae tortor condimentum lacinia. Eget felis eget nunc lobortis mattis. Hac habitasse platea dictumst quisque sagittis purus sit amet.
+Dotted List:
 
-Vulputate dignissim suspendisse in est ante in nibh mauris cursus. Morbi tristique senectus et netus et malesuada fames ac. Mauris sit amet massa vitae tortor condimentum lacinia quis. Non curabitur gravida arcu ac tortor dignissim. Ante in nibh mauris cursus mattis molestie a iaculis. Ultrices dui sapien eget mi proin sed libero enim. Leo vel fringilla est ullamcorper eget. Arcu non odio euismod lacinia at quis risus sed vulputate. Lectus mauris ultrices eros in cursus turpis massa tincidunt dui. Vel eros donec ac odio tempor orci dapibus ultrices.
+- Item 1
+- Item 2
+- Item 3
 
-Commodo nulla facilisi nullam vehicula ipsum a arcu. Senectus et netus et malesuada fames ac turpis egestas maecenas. Tempor id eu nisl nunc mi ipsum faucibus vitae aliquet. Condimentum lacinia quis vel eros. Ac turpis egestas integer eget aliquet. Duis ut diam quam nulla porttitor. Neque aliquam vestibulum morbi blandit cursus risus. Nibh tellus molestie nunc non blandit massa enim nec dui. Nam at lectus urna duis. Lectus sit amet est placerat in egestas. Arcu non sodales neque sodales ut etiam.
+Task List:
 
-Nulla facilisi nullam vehicula ipsum a. Magna etiam tempor orci eu. Enim praesent elementum facilisis leo. Vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Vitae elementum curabitur vitae nunc sed velit dignissim. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Arcu bibendum at varius vel pharetra vel turpis nunc. Semper feugiat nibh sed pulvinar proin gravida hendrerit. Adipiscing enim eu turpis egestas pretium aenean pharetra. In cursus turpis massa tincidunt dui ut.
+- [x] Item 1
+- [ ] Item 2
+- [ ] Item 3
 
-A cras semper auctor neque vitae tempus. Feugiat in ante metus dictum. Faucibus ornare suspendisse sed nisi lacus sed. Porttitor eget dolor morbi non. Justo eget magna fermentum iaculis eu non diam phasellus. In vitae turpis massa sed elementum tempus egestas sed. Elementum tempus egestas sed sed risus pretium quam vulputate. Felis donec et odio pellentesque diam volutpat commodo sed egestas. Platea dictumst quisque sagittis purus sit. Mauris in aliquam sem fringilla ut. Netus et malesuada fames ac turpis. Varius morbi enim nunc faucibus a. Massa vitae tortor condimentum lacinia quis vel eros donec. Faucibus a pellentesque sit amet porttitor. Varius morbi enim nunc faucibus a pellentesque sit.
+Definition List:
 
-Elit duis tristique sollicitudin nibh sit amet commodo. Urna id volutpat lacus laoreet non curabitur gravida arcu ac. Felis donec et odio pellentesque diam volutpat commodo. Placerat duis ultricies lacus sed turpis. Ullamcorper a lacus vestibulum sed arcu non odio euismod lacinia. Nunc scelerisque viverra mauris in aliquam sem. Quam pellentesque nec nam aliquam sem et. Purus non enim praesent elementum facilisis. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. Amet consectetur adipiscing elit ut aliquam purus sit amet. Porta lorem mollis aliquam ut porttitor. Blandit libero volutpat sed cras. Nunc congue nisi vitae suscipit. Nunc id cursus metus aliquam eleifend mi. Senectus et netus et malesuada fames ac turpis egestas maecenas. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Lorem donec massa sapien faucibus et molestie. Tellus cras adipiscing enim eu turpis egestas pretium aenean. Fames ac turpis egestas integer eget aliquet nibh. A scelerisque purus semper eget duis.
+Item 1
+: definition 1
 
-Tellus id interdum velit laoreet id. Morbi tempus iaculis urna id volutpat lacus laoreet non curabitur. In ornare quam viverra orci sagittis eu volutpat odio. Dolor morbi non arcu risus quis varius quam. Orci a scelerisque purus semper eget. Sit amet tellus cras adipiscing enim. Turpis egestas maecenas pharetra convallis. Ullamcorper eget nulla facilisi etiam. Placerat vestibulum lectus mauris ultrices eros in cursus. Pharetra massa massa ultricies mi quis hendrerit dolor. Elementum integer enim neque volutpat ac tincidunt vitae semper quis. Est ante in nibh mauris cursus mattis molestie a iaculis.
+Item 2
+: definition 2
 
-In vitae turpis massa sed elementum tempus egestas sed sed. Ac turpis egestas integer eget aliquet nibh praesent tristique. Adipiscing elit ut aliquam purus. Tortor vitae purus faucibus ornare suspendisse sed nisi. Pretium quam vulputate dignissim suspendisse in. Pharetra pharetra massa massa ultricies mi quis hendrerit dolor. Nec dui nunc mattis enim ut tellus. Hendrerit dolor magna eget est lorem ipsum dolor. Mauris pharetra et ultrices neque ornare. Cras semper auctor neque vitae. Duis convallis convallis tellus id. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum. Id porta nibh venenatis cras sed felis eget.
+Item 3
+: definition 3
 
-Porttitor rhoncus dolor purus non. Gravida quis blandit turpis cursus in hac habitasse platea dictumst. Lacus vestibulum sed arcu non odio euismod lacinia at. Cursus in hac habitasse platea dictumst quisque sagittis purus sit. Et leo duis ut diam quam nulla porttitor massa id. Augue interdum velit euismod in pellentesque massa placerat duis. Interdum velit euismod in pellentesque massa placerat duis ultricies. In arcu cursus euismod quis viverra. Ornare arcu odio ut sem. Id leo in vitae turpis massa sed. Sit amet purus gravida quis blandit turpis. Vel facilisis volutpat est velit egestas dui id ornare arcu.
 
-Viverra vitae congue eu consequat. Et sollicitudin ac orci phasellus egestas tellus rutrum. Commodo elit at imperdiet dui accumsan sit amet nulla. Pulvinar mattis nunc sed blandit libero volutpat sed. In vitae turpis massa sed elementum tempus egestas. Lacinia at quis risus sed vulputate. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Vitae semper quis lectus nulla. Urna nunc id cursus metus aliquam eleifend mi. Nunc faucibus a pellentesque sit amet porttitor. Lectus quam id leo in vitae. Ultricies lacus sed turpis tincidunt id. Eleifend quam adipiscing vitae proin. Nunc id cursus metus aliquam. Nunc sed id semper risus in hendrerit gravida. Volutpat diam ut venenatis tellus in. Sed ullamcorper morbi tincidunt ornare.
+### Styles example
 
-Condimentum vitae sapien pellentesque habitant morbi tristique. Euismod in pellentesque massa placerat duis ultricies lacus. Mollis nunc sed id semper risus in hendrerit gravida. Nunc vel risus commodo viverra maecenas. Pellentesque nec nam aliquam sem et tortor consequat. Ac feugiat sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. Auctor neque vitae tempus quam pellentesque. Amet est placerat in egestas erat imperdiet sed. Vestibulum lorem sed risus ultricies tristique nulla aliquet. Etiam dignissim diam quis enim lobortis. Vel elit scelerisque mauris pellentesque pulvinar. Sed felis eget velit aliquet sagittis id consectetur. Non diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Convallis a cras semper auctor neque. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+1. **Bold**
+2. *Italic*
+3. `Monospace`
+4. ~~Stikethrough~~
 
-Enim nulla aliquet porttitor lacus. Donec massa sapien faucibus et molestie ac feugiat. Suscipit tellus mauris a diam. Tristique nulla aliquet enim tortor at auctor urna nunc id. Nunc mi ipsum faucibus vitae. Massa ultricies mi quis hendrerit dolor. Mi tempus imperdiet nulla malesuada. Nulla aliquet enim tortor at auctor urna nunc id. Arcu dui vivamus arcu felis. Sem fringilla ut morbi tincidunt augue interdum velit euismod. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam. Id diam maecenas ultricies mi eget. Quis vel eros donec ac odio tempor. Leo a diam sollicitudin tempor id. Eget nunc scelerisque viverra mauris in aliquam sem fringilla.
+### Other
 
-Leo in vitae turpis massa sed elementum. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget. Praesent elementum facilisis leo vel. Ut placerat orci nulla pellentesque dignissim enim. Enim ut sem viverra aliquet eget. Tincidunt arcu non sodales neque. Commodo ullamcorper a lacus vestibulum sed arcu non odio. Sed felis eget velit aliquet sagittis id consectetur. Et magnis dis parturient montes nascetur ridiculus mus mauris vitae. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin. Consectetur lorem donec massa sapien faucibus et. Arcu ac tortor dignissim convallis aenean. Sed blandit libero volutpat sed cras ornare. Non nisi est sit amet facilisis. At augue eget arcu dictum varius duis.
-
-Sed faucibus turpis in eu mi. Neque vitae tempus quam pellentesque nec nam aliquam sem. Ipsum dolor sit amet consectetur. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Fermentum et sollicitudin ac orci. Aliquam etiam erat velit scelerisque in dictum non. Urna duis convallis convallis tellus id interdum velit laoreet id. Auctor augue mauris augue neque gravida in fermentum et. Neque gravida in fermentum et sollicitudin ac orci phasellus. Orci nulla pellentesque dignissim enim. Ipsum faucibus vitae aliquet nec ullamcorper sit amet risus. Et netus et malesuada fames ac turpis egestas maecenas pharetra.
-
-Egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Pulvinar sapien et ligula ullamcorper malesuada proin libero nunc consequat. Purus ut faucibus pulvinar elementum integer enim neque volutpat. Purus sit amet volutpat consequat mauris. Erat velit scelerisque in dictum non consectetur a erat. Lorem ipsum dolor sit amet consectetur adipiscing elit. Erat velit scelerisque in dictum non consectetur. Etiam sit amet nisl purus in mollis nunc. A pellentesque sit amet porttitor eget dolor morbi non. Rhoncus aenean vel elit scelerisque. A lacus vestibulum sed arcu non odio euismod. Eget arcu dictum varius duis at consectetur lorem donec. Nisl tincidunt eget nullam non. In fermentum et sollicitudin ac orci phasellus egestas. Sed ullamcorper morbi tincidunt ornare massa eget. Vitae justo eget magna fermentum iaculis eu non diam phasellus. A diam maecenas sed enim. Molestie a iaculis at erat pellentesque adipiscing commodo elit. Egestas erat imperdiet sed euismod nisi porta.
+> Backquoted text
