@@ -18,7 +18,7 @@ cppFunc () {
 }
 
 shFunc () {
-	echo "#! /bin/sh" > ./$projectName.sh
+	echo "#! /bin/bash" > ./$projectName.sh
 }
 
 mdFunc () {
