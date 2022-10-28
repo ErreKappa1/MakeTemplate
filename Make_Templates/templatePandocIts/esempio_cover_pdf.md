@@ -75,3 +75,7 @@ Item 3
 ### Other
 
 > Backquoted text
+
+### Pictures
+
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
