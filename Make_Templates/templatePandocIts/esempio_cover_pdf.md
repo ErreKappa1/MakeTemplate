@@ -15,7 +15,7 @@ footer-left: "\\includegraphics{its-footer.png}"
 
 # Title 1
 
-First paraghraph
+First paragraph
 
 ## Subtitle
 
